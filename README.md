@@ -1,20 +1,16 @@
-# Projeto de Parceria Módulo-25 - EBAC
+# 3º Projeto - EDA - Dados de Estudantes de uma Universidade
 
 O dataset escolhido traz dados reais sobre o comportamento de estudantes e suas notas e médias na universidade. Sabemos que muitos fatores podem influenciar no aprendizado de uma pessoa e consequentemente no seu desempenho. A idéia aqui é tentar encontrar alguma resposta que esclareça essa questão.
+
+Neste projeto eu utilizei:
+* **Python-Matplotlib** e **Seaborn** para gerar gráficos e visualizar dados
+* **Python-Pandas** para lidar com DataFrames e dados correlacionados
+* **Python-Numpy** e **Scikit-Learn** para criar modelos de aprendizagem de máquina
 
 
 Para acessar o dataset real clique [aqui](https://www.kaggle.com/datasets/mahmoudelhemaly/students-grading-dataset/data).
 
-Nota do criador do dataset:
+Link do projeto no [Kaggle](https://www.kaggle.com/code/gabrielwsb/3-projeto-eda-projeto-de-parceria-ebac)
 
 
 
-> The dataset is real, but I included some bias to create a greater challenge for my students.
-
-
-
-> PT-BR: O conjunto de dados é real, mas eu incluí alguns vieses para criar um desafio maior para os meus alunos.
-
-O desafio vai ser lidar com os dados que possuem algum tipo de viés. Como um dos meus primeiros projetos vou topar o desafio. Vamos começar!
-
-Neste projeto eu: gerei gráficos, fiz correlação de variáveis, criei um modelo de regressão linear e diversos outras coisas!
