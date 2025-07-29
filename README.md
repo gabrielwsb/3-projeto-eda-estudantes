@@ -2,10 +2,13 @@
 
 O dataset escolhido traz dados reais sobre o comportamento de estudantes e suas notas e médias na universidade. Sabemos que muitos fatores podem influenciar no aprendizado de uma pessoa e consequentemente no seu desempenho. A idéia aqui é tentar encontrar alguma resposta que esclareça essa questão.
 
-Neste projeto eu utilizei:
-* **Python-Matplotlib** e **Seaborn** para gerar gráficos e visualizar dados
-* **Python-Pandas** para lidar com DataFrames e dados correlacionados
-* **Python-Numpy** e **Scikit-Learn** para criar modelos de aprendizagem de máquina
+Neste projeto 100% realizado com Python eu:
+* Utilizei **PANDAS** para visualizar os dados através de um DataFrame.
+* Fiz uma análise das principais colunas do arquivo.
+* Gerei gráficos utilizando o **MATPLOTLIB** e **SEABORN**.
+* Fiz a codificação das colunas para verificar possíveis dados correlacionais.
+* Utilizei a função **corr()** do **PANDAS** para calcular a correlação entre variáveis que fizesse sentido.
+* Crio um modelo de regressão linear utilizando **SCIKIT-LEARN** e o **NUYMPY** para verificar a possibilidade de prever situações.
 
 
 Para acessar o dataset real clique [aqui](https://www.kaggle.com/datasets/mahmoudelhemaly/students-grading-dataset/data).
